@@ -1,0 +1,17 @@
+{
+  "name": "muck_management",
+  "version": "1.0.0",
+  "description": "Managing muck",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Venkata,Sourabh,Juan,Reed",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "python-shell": "^1.0.6"
+  }
+}
